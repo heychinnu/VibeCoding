@@ -27,7 +27,9 @@ spring:
   
   security:
     cors:
-      allowed-origins: "http://localhost:3000"
+      allowed-origins: 
+        - "http://localhost:3000"
+        - "https://username.github.io"
       allowed-methods: GET,POST,PUT,DELETE,OPTIONS
       allowed-headers: "*"
       allow-credentials: true

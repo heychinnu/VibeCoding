@@ -67,6 +67,11 @@ A full-stack web application for cataloging meals, recipes, and restaurants, and
 - **HTTP Client**: Axios
 - **Forms**: React Hook Form
 
+## 🌐 Live Demo
+
+**Frontend**: `https://YOUR_USERNAME.github.io/taste`  
+**Backend API**: `https://your-railway-app.up.railway.app/api`
+
 ## Getting Started
 
 ### Prerequisites
@@ -74,6 +79,9 @@ A full-stack web application for cataloging meals, recipes, and restaurants, and
 - Node.js 16 or higher
 - MySQL 8.0 or higher
 - Maven 3.6 or higher
+
+### 🚀 Quick Deploy
+See [DEPLOYMENT.md](DEPLOYMENT.md) for complete deployment instructions to make your app live!
 
 ### Database Setup
 
